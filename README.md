@@ -15,3 +15,14 @@ This project aims to assess the quality of milk using machine learning technique
 
 - Source: [Milk Quality Dataset – Kaggle](https://www.kaggle.com/datasets/cpluzshrijayan/milkquality)  
 - Features: pH, Temperature, Taste, Odor, Fat, Turbidity, Colour, Grade
+  
+## Files Included
+
+- `ErsanIvandaPutra_00000073319_IS411_D_UAS.ipynb` – Jupyter Notebook with full analysis  
+- `milk_quality.csv` – Raw dataset  
+- `README.md` – Project overview and documentation
+- `ErsanIvandaPutra_00000073319_IS411_D_UAS.pdf` - Jurnal Output
+
+## Picture
+![Screenshot 2025-06-06 012245](https://github.com/user-attachments/assets/b9fc9f2e-c868-45fc-a511-dfa3d6bac8cb)
+![Screenshot 2025-06-06 013035](https://github.com/user-attachments/assets/e73f5978-52cc-4da4-aef9-c69664a93e2c)
